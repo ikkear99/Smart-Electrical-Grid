@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Cot neo 200KV</folder>
+	<filename>DJI_0373.JPG</filename>
+	<path>F:\tot_nghiep\Data\Cot neo 200KV\DJI_0373.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4056</width>
+		<height>2280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tru_su</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>412</ymin>
+			<xmax>2399</xmax>
+			<ymax>1277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tru_su</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2891</xmin>
+			<ymin>1647</ymin>
+			<xmax>3164</xmax>
+			<ymax>2126</ymax>
+		</bndbox>
+	</object>
+</annotation>

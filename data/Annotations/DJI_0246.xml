@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ong noi</folder>
+	<filename>DJI_0246.JPG</filename>
+	<path>E:\DIEN_OEGalaxy\Data\Ong noi\DJI_0246.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4056</width>
+		<height>2280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ong_noi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1774</xmin>
+			<ymin>995</ymin>
+			<xmax>2031</xmax>
+			<ymax>1436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ong_noi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2794</xmin>
+			<ymin>1445</ymin>
+			<xmax>2929</xmax>
+			<ymax>1647</ymax>
+		</bndbox>
+	</object>
+</annotation>

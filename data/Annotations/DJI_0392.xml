@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Cot neo 200KV</folder>
+	<filename>DJI_0392.JPG</filename>
+	<path>E:\DIEN_OEGalaxy\Data\Cot neo 200KV\DJI_0392.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4056</width>
+		<height>2280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>khoa_neo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2339</xmin>
+			<ymin>1170</ymin>
+			<xmax>3130</xmax>
+			<ymax>1539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>khoa_neo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1665</xmin>
+			<ymin>1552</ymin>
+			<xmax>2403</xmax>
+			<ymax>2078</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tru_su</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>791</ymin>
+			<xmax>1280</xmax>
+			<ymax>1666</ymax>
+		</bndbox>
+	</object>
+</annotation>
