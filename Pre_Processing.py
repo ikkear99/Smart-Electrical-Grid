@@ -48,7 +48,7 @@ def data_set(AnnotationPath: str):
     df = pd.DataFrame(dataList,columns=[ 'prev_filename', 'filename', 'strType', 'xmin', 'ymin', 'xmax', 'ymax',
                                          'labels', 'width', 'height', 'x_center', 'y_center', 'x_center_norm',
                                          'y_center_norm', 'w_norm', 'h_norm'])
-    df.to_csv(r'Meta_data\grid_cell_detection.csv', index= False)
+    df.to_csv(r'Meta_data\grid_box_detection.csv', index= False)
 
 if __name__ == '__main__':
     AnnotationPath = "data/Annotations"
