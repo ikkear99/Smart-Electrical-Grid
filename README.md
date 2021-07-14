@@ -6,7 +6,7 @@ Folder structure:
 - Metadata: contains training data
 - Result: contains the initial result
 - Data/Annotations: the label of the image data is assigned in the format yoloV5
-Run/detect: Image detect with our trained model
+- Run/detect: Image detect with our trained model
  
 ### Train Custom Data
 #### 1. Clone YoloV5 model
