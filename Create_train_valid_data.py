@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
     data_csv_path = "Meta_data/grid_box_detection.csv"
     df = pd.read_csv(data_csv_path)
-    df_train, df_valid = model_selection.train_test_split(df, test_size=0.1, random_state=13, shuffle=True)
+    df_train, df_valid = model_selection.train_test_split(df, test_size=0.2, random_state=13, shuffle=True)
     print(df_train.shape, df_valid.shape)
 
     train_csv_path = "Meta_data/train.csv"
